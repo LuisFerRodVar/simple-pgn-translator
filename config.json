@@ -1,0 +1,18 @@
+{
+  "api_url": "http://localhost:5000",
+  "default_source": "en",
+  "default_target": "es",
+  "timeout": 30,
+  "supported_languages": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français", 
+    "de": "Deutsch",
+    "it": "Italiano",
+    "pt": "Português",
+    "ru": "Русский",
+    "zh": "中文",
+    "ja": "日本語",
+    "ar": "العربية"
+  }
+}

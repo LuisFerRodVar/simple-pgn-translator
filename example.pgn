@@ -1,0 +1,14 @@
+[Event "World Championship"]
+[Site "New York"]
+[Date "1972.07.11"]
+[Round "1"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1-0"]
+
+1. e4 {A strong opening move, controlling the center} c5 {The Sicilian Defense, aggressive and popular} 
+2. Nf3 {Developing the knight, attacking the center} d6 {Supporting the pawn on c5} 
+3. d4 {Opening the center, typical sacrifice} cxd4 {Capturing to open lines} 
+4. Nxd4 {Recapturing with the knight} Nf6 {Developing and attacking e4} 
+5. Nc3 {Supporting the e4 pawn} a6 {The Najdorf variation begins, preventing Nb5} 
+6. Be3 {Developing the bishop to a strong square} e6 {Preparing to develop the light-squared bishop} 1-0
