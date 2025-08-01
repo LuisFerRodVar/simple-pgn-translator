@@ -137,14 +137,13 @@ libretranslate
 
 ## Example
 
-Original file `example.pgn`:
-```
-1. e4 {A strong opening move} c5 {The Sicilian Defense}
-```
+This repository includes example files:
+- `example.pgn`: Original PGN file with English comments
+- `example_es.pgn`: Same file with comments translated to Spanish
 
-After translation (en→es):
-```
-1. e4 {Un movimiento de apertura fuerte} c5 {La Defensa Siciliana}
+You can test the translator with these files:
+```bash
+./pgn_translator.py example.pgn example_translated.pgn --source en --target es
 ```
 
 ## Common language codes
